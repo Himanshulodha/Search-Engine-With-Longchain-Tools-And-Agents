@@ -1,3 +1,4 @@
+https://github.com/user-attachments/assets/a9ff8e75-f7ca-44d5-86bb-004fbcc58007
 # Search-Engine-With-Longchain-Tools-And-Agents
 
 This project demonstrates how to build a search-powered conversational AI agent using LangChain and Groq LLMs, wrapped in a clean Streamlit UI.
